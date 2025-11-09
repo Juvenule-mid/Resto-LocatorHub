@@ -14,6 +14,10 @@ Why choose RestoLocator Hub?
 -	Appealing visuals: Browse photos of dishes and ambiance to better anticipate your experience.
 We believe every meal is an adventure and every restaurant deserves to be discovered. With RestoLocator Hub, turn your outings into true gastronomic journeys—and let your taste buds travel at every visit. Explore, taste, share, and savor a unique culinary experience thanks to RestoLocator Hub. Your next delicious discovery is just a click away!
 
+## Design :
+
+![restoLH](https://github.com/user-attachments/assets/cd12c35e-5c19-469a-a4e9-8694a600a5d8)
+
 ## GIF
 ![RestoLocatorHub-Figma2025-11-0819-08-13-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1d0441a7-1999-4081-94d3-dbfae318791e)
 
